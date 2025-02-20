@@ -1,4 +1,3 @@
-// memory.c
 #include <stdlib.h>
 #include <emscripten.h>
 
